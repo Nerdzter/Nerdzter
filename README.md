@@ -18,3 +18,4 @@
 </div><br/>
 
 Um aventureiro na programação e a curiosidade me faz amar a área.
+(Este GitHub está sendo montado, estou colocando meus projetos, desde os primeiros até os mais atuais.)
