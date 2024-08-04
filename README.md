@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nerdzter/Nerdzter/output/snake.svg" alt="Snake animation" />
+
 
 ###
