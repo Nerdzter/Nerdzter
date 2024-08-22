@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nayderson and I'm a programmer, from Brazil!</h2>
+<h2 align="center">Opa!👋 Meu nome é Nayderson, <br> E eu sou um programador!</h2>
 
 ###
 
