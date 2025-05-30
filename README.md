@@ -27,7 +27,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
+###
+---
 
+## 🧩 Projetos em Destaque
+
+🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.  
+
+
+---
 ###
 
 <div align="center">
