@@ -30,7 +30,10 @@
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🧩 Projetos em Destaque 
+
+🕵️‍♂️ [HackMeter](https://github.com/Nerdzter/HackMeter) — Ferramenta de investigação digital estilo terminal hacker. Busca dados públicos de pessoas ou empresas e gera relatórios automáticos.
+
 
 🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.  
 
