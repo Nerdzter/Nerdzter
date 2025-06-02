@@ -57,6 +57,8 @@
 
 🩺 [GlucAlert / Em Desenvolvimento](https://github.com/Nerdzter/GlucAlert-Project-App) — App nativo que monitora sinais vitais via ESP32. Gera gráficos, PDFs e alertas. Também funciona sem o gadget com formulário inteligente.
 
+📱 [NayTec Android Manager/ Em desenvolvimento](https://github.com/Nerdzter/NayTec-Android-Manager) — Sistema desktop que detecta e remove vírus de Android via ADB. Inclui dashboard com estatísticas, otimização e espelhamento de tela.
+
 ---
 ###
 
