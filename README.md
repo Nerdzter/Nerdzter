@@ -55,7 +55,7 @@
 
 🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.
 
-🩺 [GlucAlert](https://github.com/Nerdzter/GlucAlert-Project-App) — App nativo que monitora sinais vitais via ESP32. Gera gráficos, PDFs e alertas. Também funciona sem o gadget com formulário inteligente. **EM DESENVOLVIMENTO**
+🩺 [GlucAlert / Em Desenvolvimento](https://github.com/Nerdzter/GlucAlert-Project-App) — App nativo que monitora sinais vitais via ESP32. Gera gráficos, PDFs e alertas. Também funciona sem o gadget com formulário inteligente.
 
 ---
 ###
