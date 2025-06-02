@@ -53,11 +53,10 @@
 
 🕵️‍♂️ [HackMeter](https://github.com/Nerdzter/HackMeter) — Ferramenta de investigação digital estilo terminal hacker. Busca dados públicos de pessoas ou empresas e gera relatórios automáticos.
 
+🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.
 
-🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.  
+🩺 [GlucAlert](https://github.com/Nerdzter/GlucAlert-Project-App) — App nativo que monitora sinais vitais via ESP32. Gera gráficos, PDFs e alertas. Também funciona sem o gadget com formulário inteligente. **EM DESENVOLVIMENTO**
 
-
-🔐 [GlucAlert](https://github.com/Nerdzter/GlucAlert-Project-App) —  App nativo que monitora sinais vitais via ESP32, gera gráficos, PDFs e alertas. Funciona também sem o gadget, com formulário inteligente. **AINDA EM DESENVOLVIMENTO**
 ---
 ###
 
