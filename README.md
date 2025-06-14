@@ -55,9 +55,17 @@
 
 🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node) — API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.
 
-🩺 [GlucAlert / Em Desenvolvimento](https://github.com/Nerdzter/GlucAlert-Project-App) — App nativo que monitora sinais vitais via ESP32. Gera gráficos PDFs e alertas. Também funciona sem o gadget com formulário inteligente.
+📱 [NayTec - Estoque Peliculasg](https://github.com/Nerdzter/EstoquePeliculas) — Aplicativo desktop/mobile desenvolvido em Flutter para controle de estoque de películas de celulares.
+Permite cadastro, edição e visualização de itens, envio de relatórios via WhatsApp, filtros por marca e tipo, e alertas automáticos de baixo estoque.
+
+-> Otmizou nossa produção;
+-> Serviço que antes demorava 1 colaborador e 2 dias agora leva 2 cliques otimizados.
 
 📱 [NayTec Android Manager/ Em desenvolvimento](https://github.com/Nerdzter/NayTec-Android-Manager) — Sistema desktop que detecta e remove vírus de Android via ADB. Além de incluir dashboard com estatísticas, otimização e espelhamento de tela.
+
+-> Aumentou o preço da venda do serviço e diminuiu o tempo e esforço;
+-> Gerou satisfação aos clientes, por não necessitar formatar o telefone para remover vírus;
+-> Trouxe nova clientela devido a fama gerada pelo serviço.
 
 ---
 ###
