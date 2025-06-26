@@ -1,84 +1,129 @@
+<!-- Banner brutalista limpo -->
+<p align="center" style="margin-bottom:20px">
+  <img src="https://imgur.com/O63ZWvB.png" width="95%" alt="Nayderson - Software Developer" style="border-radius:18px;box-shadow:0 8px 24px #1116;">
+</p>
 
-
-<h1 align="center" style="font-size: 2.6rem;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira;Software+Developer;Aprovado+4x+Interc%C3%A2mbio+Internacional;Build.+Automate.+Scale." alt="Typing SVG" />
+<h1 align="center" style="font-size:2.5rem;letter-spacing:1px;">
+  Nayderson Oliveira <br>
+  <span style="font-size:1.4rem;font-weight:400;color:#E4405F;">Software Developer • Fullstack • Visionário</span>
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Aprovado%204x%20Intercambio-222831?style=flat-square&logo=airplane&logoColor=white" />
+  <img src="https://img.shields.io/badge/Barbacena%20MG-0077B5?style=flat-square&logo=homeassistant&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Nerdzter&style=flat-square&color=E4405F" alt="profile views"/>
-  <br>
-  <b>Nayderson&nbsp;•&nbsp; 19 anos &nbsp;•&nbsp; Software Developer</b><br>
-  <b>Aprovado 4x em intercâmbio internacional</b>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🚨 Quem sou eu
 
-Ambicioso, inquieto e com foco total em crescimento.  
-Aprovado em 4 intercâmbios internacionais antes dos 20, programador fullstack, experiência de verdade em projetos próprios, automação, SaaS e healthtech.  
-Transformo ideias em soluções – **rápido, eficiente e pronto pro mundo**.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,flutter,react,firebase,mysql,html,css,bash,git,linux,wordpress" />
-</p>
+> Ambição, código e resultado.  
+> Sou o cara que resolve rápido, escala projeto real, e já fui **aprovado em 4 intercâmbios internacionais** antes dos 20.  
+> Entrego do backend mais bruto ao frontend mais limpo. Programador raiz com pegada de dono — e foco em impacto.
 
 ---
 
-## 🌎 Projetos de Impacto
+## 🚩 Destaques Acadêmicos
+
+- 🏅 **Aprovado 4x em intercâmbio internacional** (EUA, Europa, Reino Unido, Latam) — SUNY, IBS Americas e mais
+- 🏆 Bolsista: 60% SUNY – Business English, New York
+- 🥇 Premiado por projetos de automação e tech em eventos estudantis
+- 🎓 Graduação: Ciência da Computação — UNIPAC (Barbacena/MG)
+- 🥋 Inovação: automação de processos reais no comércio local (de loja física a healthtech)
+
+---
+
+## 🧰 Stacks mais usadas
 
 <div align="center">
-
-<a href="https://github.com/Nerdzter/HackMeter">
-  <img src="https://img.shields.io/badge/HackMeter-222831?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/Nerdzter/auth-api-node">
-  <img src="https://img.shields.io/badge/Auth%20API-007396?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-<a href="https://github.com/Nerdzter/Bot-Whatsapp">
-  <img src="https://img.shields.io/badge/Bot%20Whatsapp-1ED760?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://github.com/Nerdzter/EstoquePeliculas">
-  <img src="https://img.shields.io/badge/Estoque%20Peliculas-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</a>
-<a href="https://github.com/Nerdzter/gest-oOS">
-  <img src="https://img.shields.io/badge/Gest%C3%A3o%20OS-4285F4?style=for-the-badge&logo=firebase&logoColor=white" />
-</a>
-<a href="https://github.com/Nerdzter/NayTec-Android-Manager">
-  <img src="https://img.shields.io/badge/Android%20Manager-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,js,ts,nodejs,react,firebase,mysql,sqlite,dart,html,css,bash,git,linux" />
 </div>
 
 ---
 
-## 🏆 Destaques Rápidos
+## ⚡ Projetos de Peso
 
-- <b>🔥 4x aprovado em intercâmbios internacionais (EUA, Europa, UK, Latam)</b>
-- 👨‍💻 +7 anos programando, experiência fullstack
-- 🏆 Fundador da NayTec – soluções SaaS e automação para o mundo real
-- 🤖 Foco total em projetos de alto impacto e automação
-- 🚀 Meta: escalar projetos, internacionalizar carreira e nunca parar de aprender
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/HackMeter">
+        <b>HackMeter</b><br>
+        <img src="https://img.shields.io/badge/-Node.js-222?style=flat&logo=nodedotjs" /> 
+        <img src="https://img.shields.io/badge/-Python-222?style=flat&logo=python" /><br>
+        <sub>Investigação digital estilo hacker<br>Relatórios automáticos sobre pessoas e empresas<br><b>Automatiza e encontra tudo que ninguém acha</b></sub>
+      </a>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/Bot-Whatsapp">
+        <b>Bot-Whatsapp</b><br>
+        <img src="https://img.shields.io/badge/-n8n-222?style=flat&logo=n8n" />
+        <img src="https://img.shields.io/badge/-Docker-222?style=flat&logo=docker" /><br>
+        <sub>Bot inteligente que responde clientes 24/7<br>Integração IA Gemini, automação de vendas e suporte<br><b>+70% eficiência comercial na loja real</b></sub>
+      </a>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/EstoquePeliculas">
+        <b>Estoque Películas</b><br>
+        <img src="https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter" />
+        <img src="https://img.shields.io/badge/-SQLite-222?style=flat&logo=sqlite" /><br>
+        <sub>Controle de estoque ultra rápido<br>Relatório automático no WhatsApp<br><b>Reduz 2 dias de trabalho pra 2 cliques</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/auth-api-node">
+        <b>Auth API Node</b><br>
+        <img src="https://img.shields.io/badge/-Node.js-222?style=flat&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/-MongoDB-222?style=flat&logo=mongodb" /><br>
+        <sub>API de autenticação JWT<br>Pronta pra produção<br><b>Base para qualquer SaaS</b></sub>
+      </a>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/NayTec-Android-Manager">
+        <b>Android Manager</b><br>
+        <img src="https://img.shields.io/badge/-Electron-222?style=flat&logo=electron" />
+        <img src="https://img.shields.io/badge/-ADB-222?style=flat&logo=android" /><br>
+        <sub>Remove vírus do Android sem formatação<br>Dashboard para técnicos<br><b>Automação e lucro imediato na assistência</b></sub>
+      </a>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <a href="https://github.com/Nerdzter/gest-oOS">
+        <b>Gestão OS</b><br>
+        <img src="https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter" />
+        <img src="https://img.shields.io/badge/-Firebase-222?style=flat&logo=firebase" /><br>
+        <sub>Sistema real de ordens de serviço<br>Centraliza equipe e clientes<br><b>Zero papel, 100% controle</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Mais Diferenciais
+
+- 🚀 **Fundador NayTec:** SaaS, automação e sistemas robustos pra mundo real
+- 🤖 Backend premium (Java, Python, Node) — do zero ao deploy
+- 🔎 Foco: **projeto grande, empresa real, impacto visível**
+- 🏅 Premiado em hackathons, destaque por automação comercial e saúde
+- 🌎 Experiência internacional: mente global, execução local
 
 ---
 
 ## 📈 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdzter&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdzter&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=Nerdzter&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nerdzter&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-</div>
+</p>
 
 ---
 
-## 📬 Onde Me Encontrar
+## 📲 Contato
 
-<div align="center">
+<p align="center">
   <a href="https://instagram.com/eunayderson" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
@@ -88,10 +133,13 @@ Transformo ideias em soluções – **rápido, eficiente e pronto pro mundo**.
   <a href="https://br.linkedin.com/in/nayderson-oliveira-751ba6217" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
   <sub>
-    <b>“Quem nasceu
+    <b>“Meu código não é sorte. É trabalho, visão e execução.”</b> <br>
+    <i>- Nayderson, Barbacena — do interior pro topo global -</i>
+  </sub>
+</div>
