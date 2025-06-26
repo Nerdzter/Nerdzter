@@ -1,55 +1,53 @@
-
-
 <h1 align="center" style="font-size:2.6rem;">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira" alt="Typing SVG" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&duration=2800&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=Evoluir+%C3%A9+Lei.;Aqui+%C3%A9+Nayderson.;Software+Developer+Fullstack.;Aprovado+4x+Interc%C3%A2mbio+Internacional.;Automatize%2C+escale%2C+domine." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&duration=2800&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=Evolution+is+Law.;This+is+Nayderson.;Fullstack+Software+Developer.;4x+International+Exchange+Winner.;Automate%2C+Scale%2C+Own+the+Future." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena/MG-222831?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Aprovado%204x%20Intercambio-E4405F?style=for-the-badge&logo=airplane&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena%2C%20Brazil-222831?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%204x%20International%20Exchange-E4405F?style=for-the-badge&logo=airplane&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Nerdzter&style=for-the-badge&color=222831" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-> <b>“Na vida, ou você cria oportunidades ou vira espectador.”</b>
+> <b>“In life, you either create opportunities, or you’re just a spectator.”</b>
 
-Sou Nayderson. Não vim de berço de ouro.  
-Mas, antes dos 20, já fui aprovado em **4 intercâmbios internacionais**.  
-Construo sistemas que fazem empresas crescerem de verdade.  
-Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem me chama.
+I'm Nayderson — I didn't start with privilege.  
+By 19, I was already selected for **4 international exchanges**.  
+I build systems that grow real businesses.  
+My code solves, automates, and scales. If you want average, look elsewhere.
 
-- 🧠 **Mentalidade de dono:** foco em solução real, crescimento rápido, execução bruta.
-- 🔥 **Software Developer Fullstack:** do backend mais blindado ao mobile de produção.
-- 🏆 **Fundador NayTec:** já automatizei comércio, saúde, tech de verdade (não só portfólio bonito).
-
----
-
-## 🥇 Destaques Acadêmicos e de Vida
-
-| ✈️ | **4x aprovado em intercâmbios internacionais** – SUNY (EUA), IBS Americas (New York), Data Science UK e Latam |
-|----|------------------------------------------------------------------------------------------------------------------|
-| 💡 | **Bolsista destaque:** 60% SUNY, aprovado em processos ultra competitivos com pouca grana e muito hustle         |
-| 🏆 | **Projetos premiados:** automação comercial, hackathons, eventos de inovação                                     |
-| 📚 | **Ciência da Computação:** UNIPAC | Barbacena/MG                                                                |
-| 🚀 | **Protagonista:** Sempre liderando, ensinando, puxando a régua pra cima                                          |
+- 🧠 **Owner’s Mindset:** Brutal execution, rapid growth, relentless improvement.
+- 🔥 **Fullstack Software Developer:** From bulletproof backend to mobile-ready for production.
+- 🏆 **NayTec Founder:** Automation in retail, healthtech, and beyond. Real tech — not just pretty portfolios.
 
 ---
 
-## 🧰 Stacks mais usadas
+## 🥇 Academic & Life Highlights
+
+| ✈️ | **4x International Exchange Winner** – SUNY (USA), IBS Americas (NY), Data Science UK, Latam |
+|----|---------------------------------------------------------------------------------------------|
+| 💡 | **Scholarship Highlight:** 60% SUNY, cracked hyper-competitive processes with hustle & grit   |
+| 🏆 | **Awarded Projects:** Retail automation, hackathons, innovation events                        |
+| 📚 | **Computer Science Student:** UNIPAC | Barbacena, Brazil                                     |
+| 🚀 | **Natural Leader:** Always pushing standards higher, leading, teaching                        |
+
+---
+
+## 🧰 My Core Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flutter,js,ts,nodejs,react,firebase,mysql,sqlite,dart,html,css,bash,git,linux" />
 </div>
-<p align="center"><i>Foco em tecnologia que entrega resultado. Aprendo rápido. Entrego mais rápido ainda.</i></p>
+<p align="center"><i>Tech that actually delivers. I learn fast. I ship even faster.</i></p>
 
 ---
 
-## 🦾 Projetos que mudam o jogo
+## 🦾 Projects that Raise the Bar
 
 <table width="100%">
   <tr>
@@ -58,7 +56,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>HackMeter</b><br>
         <img src="https://img.shields.io/badge/-Node.js-222?style=flat&logo=nodedotjs" /> 
         <img src="https://img.shields.io/badge/-Python-222?style=flat&logo=python" /><br>
-        <sub><b>Dossiê hacker automatizado.</b> Investigação digital, busca qualquer dado, gera relatório real time. Feito pra quem precisa de resultado, não só de “big data”.</sub>
+        <sub><b>Automated digital intelligence.</b> Investigate anything, generate live dossiers. For people who want answers — not just “big data.”</sub>
       </a>
     </td>
     <td width="32%" valign="top" align="center">
@@ -66,7 +64,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>Bot-Whatsapp</b><br>
         <img src="https://img.shields.io/badge/-n8n-222?style=flat&logo=n8n" />
         <img src="https://img.shields.io/badge/-Docker-222?style=flat&logo=docker" /><br>
-        <sub><b>Robô que vende e atende.</b> Integra IA Gemini, automatiza vendas, responde cliente 24/7, reduz trabalho manual. Já rodando em loja real, não é só MVP.</sub>
+        <sub><b>Sells and supports on autopilot.</b> Gemini AI, automated sales, 24/7 response, running in the wild — not just another MVP.</sub>
       </a>
     </td>
     <td width="32%" valign="top" align="center">
@@ -74,7 +72,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>Estoque Películas</b><br>
         <img src="https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter" />
         <img src="https://img.shields.io/badge/-SQLite-222?style=flat&logo=sqlite" /><br>
-        <sub><b>Estoquista automático.</b> Reduziu 2 dias de trabalho para 2 cliques. Relatório automático no WhatsApp. Rodando na vida real. </sub>
+        <sub><b>Stock control on steroids.</b> Cut 2 days of work to 2 clicks. WhatsApp automated reports. Solving real problems, not hypothetical ones.</sub>
       </a>
     </td>
   </tr>
@@ -84,7 +82,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>Auth API Node</b><br>
         <img src="https://img.shields.io/badge/-Node.js-222?style=flat&logo=nodedotjs" />
         <img src="https://img.shields.io/badge/-MongoDB-222?style=flat&logo=mongodb" /><br>
-        <sub><b>API de autenticação JWT.</b> Base para SaaS. Simples, robusta, sem enrolação.</sub>
+        <sub><b>JWT Auth API.</b> Foundation for any SaaS — simple, robust, production-ready.</sub>
       </a>
     </td>
     <td width="32%" valign="top" align="center">
@@ -92,7 +90,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>Android Manager</b><br>
         <img src="https://img.shields.io/badge/-Electron-222?style=flat&logo=electron" />
         <img src="https://img.shields.io/badge/-ADB-222?style=flat&logo=android" /><br>
-        <sub><b>Remove vírus sem formatação.</b> Dashboard técnico, mais agilidade e dinheiro no caixa. Pra quem trabalha, não pra quem só formata celular.</sub>
+        <sub><b>Removes malware, no factory reset.</b> Technical dashboard, more revenue for real shops — not for weekend hobbyists.</sub>
       </a>
     </td>
     <td width="32%" valign="top" align="center">
@@ -100,7 +98,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
         <b>Gestão OS</b><br>
         <img src="https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter" />
         <img src="https://img.shields.io/badge/-Firebase-222?style=flat&logo=firebase" /><br>
-        <sub><b>Centraliza OS, zero papel.</b> Gerencia ordens de serviço em tempo real, do técnico ao cliente. Base operacional da assistência.</sub>
+        <sub><b>Zero-paper service management.</b> Real-time OS tracking, from technician to client. Backbone of real-world service shops.</sub>
       </a>
     </td>
   </tr>
@@ -108,12 +106,12 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
 
 ---
 
-## 🔥 Por que confiar em mim?
+## 🔥 Why Me?
 
-- **Execução**: Não enrolo. Faço, entrego, melhoro.  
-- **Resiliência:** Venho de baixo, mas minha mentalidade é de topo.
-- **Mentalidade internacional:** Pronto pra mercado global, adaptação rápida, inglês afiado.
-- **Proatividade:** Não espero tarefa, crio demanda, resolvo problema sem que peçam.
+- **Execution:** I don’t just talk. I ship, I improve, I scale.
+- **Resilience:** Started from the bottom, thinking global since day one.
+- **International mindset:** Ready for any market, fluent English, fast adaptation.
+- **Proactive:** I create demand, solve problems before they even hit the roadmap.
 
 ---
 
@@ -127,7 +125,7 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
 
 ---
 
-## 💼 Fale comigo agora
+## 💼 Let’s connect
 
 <div align="center">
   <a href="https://instagram.com/eunayderson" target="_blank">
@@ -144,6 +142,6 @@ Meu código resolve, automatiza e escala. Se for pra fazer igual todo mundo, nem
 ---
 
 <div align="center" style="font-size:1.2rem;font-weight:700;">
-  <b>“Se for pra sonhar pequeno, nem deito.”<br>
-  Código que muda vidas, história que inspira. Bora fazer acontecer.</b>
+  <b>“Dreaming small is not my thing.<br>
+  Code that impacts, story that inspires. Let’s make it happen.”</b>
 </div>
