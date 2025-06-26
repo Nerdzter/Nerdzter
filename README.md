@@ -29,7 +29,7 @@ My code solves, automates, and scales. If you want average, look elsewhere.
 
 ## 🥇 Academic & Life Highlights
 
-| ✈️ | **4x International Exchange Winner** – SUNY (USA), IBS Americas (NY), Data Science UK, Latam |
+| ✈️ | **4x International Exchange Winner** – SUNY (USA), Data Science UK ( WITH  IBS Americas |
 |----|---------------------------------------------------------------------------------------------|
 | 💡 | **Scholarship Highlight:** 60% SUNY, cracked hyper-competitive processes with hustle & grit   |
 | 🏆 | **Awarded Projects:** Retail automation, hackathons, innovation events                        |
