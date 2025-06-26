@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/jpgPUla.png" alt="Banner Nayderson" width="100%" style="border-radius:16px;box-shadow:0 2px 16px #2226;">
-</p>
 
 <h1 align="center" style="font-size: 2.6rem;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira;Software+Developer;Aprovado+4x+Interc%C3%A2mbio+Internacional;Build.+Automate.+Scale." alt="Typing SVG" />
