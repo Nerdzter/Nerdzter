@@ -1,9 +1,8 @@
-<!-- Banner estiloso (pode customizar o link ou pedir arte nova pra mim) -->
-<p align="center">
-  <img src="https://i.imgur.com/AXZ7e6p.png" width="95%" alt="Nayderson Banner" style="border-radius:14px;box-shadow:0 4px 28px #0007;">
-</p>
+
 
 <h1 align="center" style="font-size:2.6rem;">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira" alt="Typing SVG" />
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&duration=2800&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=Evoluir+%C3%A9+Lei.;Aqui+%C3%A9+Nayderson.;Software+Developer+Fullstack.;Aprovado+4x+Interc%C3%A2mbio+Internacional.;Automatize%2C+escale%2C+domine." alt="Typing SVG" />
 </h1>
 
