@@ -1,102 +1,69 @@
+<!-- Banner animado pode ser colocado aqui depois (ex: GIF ou SVG) -->
 
-<h2 align="center">Opa! 👋<br> Meu nome é Nayderson,<br> E eu sou um programador!</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Fala%2C+mundo!+Sou+o+Nayderson+👾;Fullstack%2C+Vision%C3%A1rio+e+Ambicioso;Pronto+pra+resolver+seu+problema+em+3+commits" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <b>Barbacena/MG • 19 anos • Programador &amp; Fundador da NayTec</b><br>
+  <img src="https://komarev.com/ghpvc/?username=Nerdzter&style=flat-square&color=E4405F" alt="profile views"/>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdzter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nerdzter&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nerdzter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdzter&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Nerdzter&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerdzter&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
 
-<h3 align="center">Principais Tecnologias</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />
-</div>
+## 🚀 Sobre mim
 
-<br />
+Sou movido a café, código e ambição.  
+Desenvolvo sistemas pra acelerar negócios, cortar custos e automatizar tudo que existe – de loja física a healthtech.  
+Gosto de tecnologia de verdade, nada de firula pra enfeitar LinkedIn.  
+Aqui o foco é **resolver problema** e **crescer rápido**.  
+Já criei SaaS, automação, bot, ferramenta hacker… e tô só começando.
 
-<h3 align="center">Tecnologias Secundárias</h3>
+---
+
+## 🧰 Stacks que domino
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="Bash" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="WordPress" title="WordPress"/>
 </div>
 
 ---
 
-## 🧩 Projetos em Destaque 
+## 🔥 Projetos que botam respeito
 
-### Fullstack / Node / API / IA / DevOps
+| Projeto | Stack | O que resolve |
+| ------- | ----- | ------------- |
+| [**HackMeter**](https://github.com/Nerdzter/HackMeter) | Node.js, Python, CLI | Busca dados públicos, investiga pessoas/empresas, gera dossiê hacker.|
+| [**Auth API Node**](https://github.com/Nerdzter/auth-api-node) | Node, Express, MongoDB | API de autenticação robusta. Simples, segura, pronta pra produção. |
+| [**Bot-Whatsapp**](https://github.com/Nerdzter/Bot-Whatsapp) | n8n, Docker, Gemini AI | Atendimento instantâneo, integrações malucas, nunca perde cliente. |
+| [**Estoque Películas**](https://github.com/Nerdzter/EstoquePeliculas) | Flutter, SQLite | Controle de estoque de verdade, relatório no zap, zero papel. |
+| [**Gestão OS (Flutter)**](https://github.com/Nerdzter/gest-oOS) | Flutter, Firebase | Gerencia OS, status, e libera o time pra fazer o que importa. |
+| [**NayTec Android Manager**](https://github.com/Nerdzter/NayTec-Android-Manager) | Electron, Python, ADB | Remove vírus de Android sem dor, dashboard pra técnico não perder tempo. |
 
-- 🕵️‍♂️ [HackMeter](https://github.com/Nerdzter/HackMeter)  
-  *Ferramenta de investigação digital estilo terminal hacker.*  
-  Busca dados públicos de pessoas/empresas e gera relatórios automáticos.  
-  **Stack:** Node.js, Python, Web Scraping, CLI, Markdown, Open Source.  
-  - Automatizou consultas e levantamentos que antes tomavam horas.
-  - Ideal para análise rápida de riscos e due diligence.
-
-- 🔐 [Auth API Node](https://github.com/Nerdzter/auth-api-node)  
-  *API de autenticação completa com JWT, bcrypt, MongoDB e frontend em HTML puro.*  
-  **Stack:** Node.js, Express, MongoDB, JWT, HTML, CSS, JS.
-  - Gerencia cadastro, login, autenticação e integração de sistemas.
-  - Permite controle de acesso robusto para qualquer aplicação.
-
-- 🧑‍💬 [Bot-Whatsapp](https://github.com/Nerdzter/Bot-Whatsapp)  
-  *Bot inteligente para WhatsApp rodando em n8n, com integração Gemini AI, Redis e automações via Docker.*  
-  **Stack:** n8n, Docker, Redis, Gemini API (Google), Webhook, JavaScript.
-  - Reduziu em 70% o tempo de atendimento na loja, responde clientes instantaneamente.
-  - Garante padrão de resposta, histórico de conversas e liberação da equipe para tarefas técnicas.
-  - Opera 24/7, não perde cliente e gera dados pra análise de atendimento.
-
-### Mobile / Flutter / Firebase
-
-- 📱 [NayTec - Estoque Películas](https://github.com/Nerdzter/EstoquePeliculas)  
-  *Aplicativo desktop/mobile feito em Flutter para controle de estoque de películas de celulares.*  
-  **Stack:** Flutter, Dart, SQLite, WhatsApp API.
-  - Otimizou produção: serviço que tomava 1 colaborador por 2 dias, agora leva 2 cliques.
-  - Controle, cadastro, edição, alertas de baixo estoque e envio automático de relatórios.
-  - Solução já implementada em ambiente real.
-
-- 🛠️ [Gestão OS (Flutter + Firebase)](https://github.com/Nerdzter/gest-oOS)  
-  *Sistema de gestão de ordens de serviço para assistência técnica, com Flutter e Firebase.*  
-  **Stack:** Flutter, Dart, Firebase, Firestore, Cloud Functions.
-  - Centraliza ordens de serviço, elimina papel, facilita acompanhamento.
-  - Acompanhamento do status para equipe e clientes.
-  - É a base operacional da assistência técnica atualmente.
-
-### Desktop / ADB / Ferramentas Técnicas
-
-- 📱 [NayTec Android Manager (em dev)](https://github.com/Nerdzter/NayTec-Android-Manager)  
-  *Sistema desktop que detecta e remove vírus de Android via ADB, inclui dashboard, otimização e espelhamento de tela.*  
-  **Stack:** Electron, Python (Flask), ADB, Node.js, JavaScript, UI/UX.
-  - Elevou preço do serviço e diminuiu tempo e esforço dos técnicos.
-  - Remove vírus sem formatar, aumenta satisfação e atrai nova clientela.
-  - Traz estatísticas, logs e automação real para o técnico.
+> Quer algo diferente? [Veja todos meus projetos](https://github.com/Nerdzter?tab=repositories) (spoiler: tem coisa maluca ali).
 
 ---
+
+## 📬 Fala comigo!
 
 <div align="center">
   <a href="https://instagram.com/eunayderson" target="_blank">
@@ -111,3 +78,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <sub>
+    <b>“Se não for pra fazer direito, nem começo.”</b> <br>
+    <i>- Nayderson, direto de Barbacena pro topo -</i>
+  </sub>
+</div>
