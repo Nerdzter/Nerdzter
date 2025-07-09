@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me 
+## 🚀  About Me 
 
 > <b>“In life, you either create opportunities, or you’re just a spectator.”</b>
 
