@@ -18,7 +18,7 @@
 
 I'm Nayderson — I didn't start with privilege.  
 By 19, I was already selected for **4 international exchanges**.  
-I build systems that grow real businesses.  
+I build systems that grow real businesses.   
 My code solves, automates, and scales. If you want average, look elsewhere.
 
 - 🧠 **Owner’s Mindset:** Brutal execution, rapid growth, relentless improvement.
