@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:2.6rem;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=E4405F&center=true&vCenter=true&width=800&lines=Nayderson+Oliveira" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&duration=2800&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=Evolution+is+Law.;This+is+Nayderson.;Fullstack+Software+Developer.;4x+International+Exchange+Winner.;Automate%2C+Scale%2C+Own+the+Future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&duration=2800&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=This+is+Nayderson.;Fullstack+Software+Developer." alt="Typing SVG" />
 </h1>
 
 <p align="center">
